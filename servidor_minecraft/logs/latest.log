@@ -48,3 +48,18 @@
 [03:00:09] [Server thread/INFO]: Hashish_ has made the advancement [Sweet Dreams]
 [04:00:27] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-340, y=65, z=-351} iw{x=-340, y=63, z=-352}
 [04:00:27] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-340, y=65, z=-351} iw{x=-340, y=63, z=-352}
+[04:40:38] [Server thread/INFO]: KimeraDemon lost connection: Disconnected
+[04:40:38] [Server thread/INFO]: KimeraDemon left the game
+[04:44:55] [Server thread/INFO]: Hashish_ lost connection: Disconnected
+[04:44:55] [Server thread/INFO]: Hashish_ left the game
+[04:45:02] [Server thread/INFO]: Stopping the server
+[04:45:02] [Server thread/INFO]: Stopping server
+[04:45:02] [Server thread/INFO]: Saving players
+[04:45:02] [Server thread/INFO]: Saving worlds
+[04:45:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:45:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:45:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:45:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:45:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:45:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:45:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
