@@ -1,0 +1,47 @@
+[02:36:26] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:36:32] [ServerMain/INFO]: Loaded 1373 recipes
+[02:36:32] [ServerMain/INFO]: Loaded 1484 advancements
+[02:36:33] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[02:36:33] [Server thread/INFO]: Loading properties
+[02:36:33] [Server thread/INFO]: Default game type: SURVIVAL
+[02:36:33] [Server thread/INFO]: Generating keypair
+[02:36:33] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:36:33] [Server thread/INFO]: Using epoll channel type
+[02:36:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:36:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:36:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:36:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:36:33] [Server thread/INFO]: Preparing level "world"
+[02:36:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:36:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:36:46] [Worker-Main-1/INFO]: Preparing spawn area: 69%
+[02:36:46] [Server thread/INFO]: Time elapsed: 11134 ms
+[02:36:46] [Server thread/INFO]: Done (12.527s)! For help, type "help"
+[02:37:46] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[02:40:33] [Server thread/INFO]: KimeraDemon[/127.82.23.62:46709] logged in with entity id 12 at (-16.22130747013717, 65.0, -521.5236556003708)
+[02:40:33] [Server thread/INFO]: KimeraDemon joined the game
+[02:41:36] [Server thread/INFO]: Hashish_[/127.82.23.62:48965] logged in with entity id 346 at (-15.967397819202533, 65.0, -522.9447396530143)
+[02:41:36] [Server thread/INFO]: Hashish_ joined the game
+[02:50:42] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-186, y=84, z=-465} iw{x=-185, y=84, z=-466}
+[02:53:39] [Server thread/INFO]: KimeraDemon has made the advancement [Sweet Dreams]
