@@ -11,6 +11,7 @@
       "minecraft:forest": "2025-06-14 03:11:01 +0000",
       "minecraft:sparse_jungle": "2025-06-13 04:59:44 +0000",
       "minecraft:river": "2025-06-14 03:10:45 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-16 06:18:12 +0000",
       "minecraft:plains": "2025-06-13 05:26:13 +0000"
     },
     "done": false
@@ -1869,6 +1870,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-16 06:14:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-16 04:46:44 +0000"
@@ -1935,6 +1942,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-16 06:14:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_red_wool": {
     "criteria": {
       "has_needed_dye": "2025-06-16 05:52:41 +0000"
@@ -1998,6 +2011,12 @@
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-06-16 05:15:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-16 06:14:37 +0000"
     },
     "done": true
   },
@@ -2187,6 +2206,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-16 06:14:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-16 05:15:42 +0000"
@@ -2331,6 +2356,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-16 06:14:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-06-16 05:15:42 +0000"
@@ -2370,6 +2401,12 @@
   "minecraft:recipes/tools/bundle": {
     "criteria": {
       "has_string": "2025-06-16 05:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-06-16 06:20:50 +0000"
     },
     "done": true
   },
