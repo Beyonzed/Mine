@@ -55,3 +55,8 @@
 [04:42:18] [Server thread/INFO]: [Not Secure] <Hashish_> rdsafdsafsa
 [04:45:04] [Server thread/INFO]: KimeraDemon[/127.132.158.50:49859] logged in with entity id 453 at (-173.0086114400622, 81.0, -461.92887283332766)
 [04:45:04] [Server thread/INFO]: KimeraDemon joined the game
+[05:03:50] [Server thread/INFO]: KimeraDemon lost connection: Timed out
+[05:03:50] [Server thread/INFO]: KimeraDemon left the game
+[05:03:50] [Server thread/WARN]: handleDisconnection() called twice
+[05:04:01] [Server thread/INFO]: KimeraDemon[/127.132.158.50:48289] logged in with entity id 3876 at (-175.09177016602771, 86.0, -466.16659400853797)
+[05:04:01] [Server thread/INFO]: KimeraDemon joined the game
