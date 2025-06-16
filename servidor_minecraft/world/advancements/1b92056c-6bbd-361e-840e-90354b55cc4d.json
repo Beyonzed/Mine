@@ -165,6 +165,7 @@
       "minecraft:skeleton": "2025-06-13 05:16:35 +0000",
       "minecraft:spider": "2025-06-14 03:41:01 +0000",
       "minecraft:zombie": "2025-06-13 05:15:37 +0000",
+      "minecraft:creeper": "2025-06-16 05:21:36 +0000",
       "minecraft:zombie_villager": "2025-06-13 05:10:51 +0000"
     },
     "done": false
@@ -1278,6 +1279,42 @@
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-06-16 04:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-16 05:19:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-16 05:19:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-16 05:19:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-16 05:19:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-06-16 05:21:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-06-16 05:21:37 +0000"
     },
     "done": true
   },
