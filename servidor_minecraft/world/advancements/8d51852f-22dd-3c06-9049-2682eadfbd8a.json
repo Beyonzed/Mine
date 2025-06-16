@@ -14,6 +14,7 @@
       "minecraft:river": "2025-06-14 03:10:45 +0000",
       "minecraft:lukewarm_ocean": "2025-06-16 06:18:12 +0000",
       "minecraft:stony_shore": "2025-06-16 17:09:50 +0000",
+      "minecraft:dripstone_caves": "2025-06-16 18:07:56 +0000",
       "minecraft:bamboo_jungle": "2025-06-16 17:05:31 +0000",
       "minecraft:plains": "2025-06-13 05:26:13 +0000"
     },
@@ -296,7 +297,8 @@
       "minecraft:enderman": "2025-06-13 05:23:07 +0000",
       "minecraft:spider": "2025-06-13 05:57:27 +0000",
       "minecraft:zombie": "2025-06-13 05:25:04 +0000",
-      "minecraft:creeper": "2025-06-14 03:53:36 +0000"
+      "minecraft:creeper": "2025-06-14 03:53:36 +0000",
+      "minecraft:zombie_villager": "2025-06-16 18:11:05 +0000"
     },
     "done": false
   },
@@ -327,6 +329,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "mutton": "2025-06-13 05:34:14 +0000",
+      "cooked_chicken": "2025-06-16 18:11:10 +0000",
       "rotten_flesh": "2025-06-13 05:15:42 +0000",
       "cooked_mutton": "2025-06-14 02:48:02 +0000",
       "melon_slice": "2025-06-16 16:55:25 +0000"
@@ -2469,6 +2472,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-06-16 18:09:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-06-16 17:55:01 +0000"
@@ -2481,9 +2490,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-16 18:08:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-16 18:08:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-16 17:55:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-16 18:08:24 +0000"
     },
     "done": true
   },
@@ -2493,15 +2520,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-16 18:08:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2025-06-16 17:55:01 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-16 18:08:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-16 17:55:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-16 18:08:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-16 18:08:24 +0000"
     },
     "done": true
   },
@@ -2535,6 +2586,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-16 18:08:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-16 18:08:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-16 18:08:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-06-16 17:13:28 +0000"
@@ -2565,6 +2634,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-16 18:08:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
       "has_bamboo": "2025-06-16 17:06:14 +0000"
@@ -2574,6 +2649,18 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-06-16 17:06:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-16 18:08:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-16 18:08:24 +0000"
     },
     "done": true
   },
