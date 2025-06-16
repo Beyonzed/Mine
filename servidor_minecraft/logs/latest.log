@@ -1,53 +1,45 @@
-[16:22:34] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:22:40] [ServerMain/INFO]: Loaded 1373 recipes
-[16:22:40] [ServerMain/INFO]: Loaded 1484 advancements
-[16:22:40] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[16:22:40] [Server thread/INFO]: Loading properties
-[16:22:40] [Server thread/INFO]: Default game type: SURVIVAL
-[16:22:40] [Server thread/INFO]: Generating keypair
-[16:22:40] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:22:40] [Server thread/INFO]: Using epoll channel type
-[16:22:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:22:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:22:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:22:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:22:41] [Server thread/INFO]: Preparing level "world"
-[16:22:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:22:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:22:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:22:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:22:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:22:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:22:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:22:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:22:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:22:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:22:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:22:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:22:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:22:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:22:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:22:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:22:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:22:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:22:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:22:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:22:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:22:51] [Server thread/INFO]: Time elapsed: 9762 ms
-[16:22:51] [Server thread/INFO]: Done (10.633s)! For help, type "help"
-[16:23:51] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[16:26:31] [Server thread/INFO]: Hashish_[/127.82.23.62:49401] logged in with entity id 12 at (-171.77564467489358, 91.0, -464.301403244571)
-[16:26:32] [Server thread/INFO]: Hashish_ joined the game
-[16:27:52] [Server thread/INFO]: Stopping the server
-[16:27:52] [Server thread/INFO]: Stopping server
-[16:27:52] [Server thread/INFO]: Saving players
-[16:27:52] [Server thread/INFO]: Hashish_ lost connection: Server closed
-[16:27:52] [Server thread/INFO]: Hashish_ left the game
-[16:27:52] [Server thread/INFO]: Saving worlds
-[16:27:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16:27:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[16:27:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[16:27:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:27:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:27:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:27:53] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:04:23] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:04:31] [ServerMain/INFO]: Loaded 1373 recipes
+[17:04:31] [ServerMain/INFO]: Loaded 1484 advancements
+[17:04:31] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[17:04:31] [Server thread/INFO]: Loading properties
+[17:04:31] [Server thread/INFO]: Default game type: SURVIVAL
+[17:04:31] [Server thread/INFO]: Generating keypair
+[17:04:33] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:04:33] [Server thread/INFO]: Using epoll channel type
+[17:04:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:04:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:04:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:04:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:04:33] [Server thread/INFO]: Preparing level "world"
+[17:04:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:04:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:04:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:04:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:04:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:04:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:04:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:04:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:04:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:04:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:04:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:04:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:04:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:04:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:04:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:04:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:04:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:04:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:04:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:04:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:04:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:04:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:04:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:04:45] [Worker-Main-1/INFO]: Preparing spawn area: 44%
+[17:04:46] [Server thread/INFO]: Time elapsed: 11327 ms
+[17:04:46] [Server thread/INFO]: Done (12.367s)! For help, type "help"
+[17:04:50] [Server thread/INFO]: Hashish_[/127.82.23.62:53177] logged in with entity id 28 at (21.312046671759987, 72.0, -437.14374149827233)
+[17:04:50] [Server thread/INFO]: Hashish_ joined the game
+[17:04:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[17:06:49] [Server thread/INFO]: KimeraDemon[/127.132.158.50:41653] logged in with entity id 1183 at (-6.962331922904171, 71.0, -438.00561865934344)
+[17:06:49] [Server thread/INFO]: KimeraDemon joined the game
